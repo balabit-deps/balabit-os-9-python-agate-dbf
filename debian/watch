@@ -1,0 +1,3 @@
+version=3
+opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/agate-dbf-$1\.tar\.gz/ \
+https://github.com/wireservice/agate-dbf/tags .*/v?(\d\S+)\.tar\.gz

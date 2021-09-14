@@ -1,0 +1,39 @@
+python-agate-dbf (0.2.2-1) unstable; urgency=medium
+
+  * Team upload.
+
+  [ Ondřej Nový ]
+  * d/control: Set Vcs-* to salsa.debian.org
+  * d/control: Remove ancient X-Python3-Version field
+  * Use debhelper-compat instead of debian/compat.
+  * d/control: Update Maintainer field with new Debian Python Team
+    contact address.
+  * d/control: Update Vcs-* fields with new Debian Python Team Salsa
+    layout.
+
+  [ Debian Janitor ]
+  * Use secure URI in Homepage field.
+  * Bump debhelper from old 10 to 12.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Bump debhelper from old 12 to 13.
+
+  [ Andrius Merkys ]
+  * New upstream version 0.2.2
+
+ -- Andrius Merkys <merkys@debian.org>  Tue, 14 Sep 2021 01:39:35 -0400
+
+python-agate-dbf (0.2.0-2) unstable; urgency=medium
+
+  * Bump standards version to 4.0.0, no changes required
+  * Build the docs using the upstream Makefile
+  * Mark doc package multiarch foreign
+  * Release to unstable
+
+ -- Ghislain Antony Vaillant <ghisvail@gmail.com>  Tue, 25 Jul 2017 10:56:45 +0100
+
+python-agate-dbf (0.2.0-1) experimental; urgency=low
+
+  * Initial release. (Closes: #850450)
+
+ -- Ghislain Antony Vaillant <ghisvail@gmail.com>  Wed, 22 Mar 2017 10:43:49 +0000

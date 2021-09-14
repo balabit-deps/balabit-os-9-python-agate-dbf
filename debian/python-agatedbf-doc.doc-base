@@ -1,0 +1,10 @@
+Document: python-agatedbf-doc
+Title: agate-dbf documentation
+Author: Christopher Groskopf
+Abstract: This is the reference documentation for the agate-dbf Python library.
+Section: Programming
+
+Format: HTML
+Index: /usr/share/doc/python-agatedbf-doc/html/index.html
+Files: /usr/share/doc/python-agatedbf-doc/html/*.html
+
